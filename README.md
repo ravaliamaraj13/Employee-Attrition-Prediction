@@ -10,21 +10,11 @@ Created a Power BI dashboard to visualize key HR metrics and model results.
 Provides business insights on employee retention based on data trends.
 
 # Files in the Repository
-hr_attrition_prediction.py
-Python script for data preprocessing, training machine learning models, and generating predictions.
+WA_Fn-UseC_-HR-Employee-Attrition.csv : Original HR dataset used for training and evaluation.
 
-model_output.csv
-Predicted attrition results saved for use in Power BI.
+model_performance.csv : Summary of accuracy, precision, and recall for all trained models.
 
-model_performance_summary.csv
-Accuracy, precision, recall, and F1 score of all models trained.
-
-employee_data.csv
-The original HR dataset used for model training and evaluation.
-
-HR_Attrition_Dashboard.pbix
-Power BI dashboard showing attrition trends, model comparisons, and visual analysis.
-
+Task 1 dashboard.pbix : Power BI dashboard visualizing attrition insights, model results, and key metrics.
 # Power BI Dashboard Includes:
 Attrition rates by department, job role, gender, and education.
 Age group distribution and income-level impact on attrition.
