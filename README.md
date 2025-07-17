@@ -10,9 +10,11 @@ Created a Power BI dashboard to visualize key HR metrics and model results.
 Provides business insights on employee retention based on data trends.
 
 # Files in the Repository
-Files in the Repository
+
 WA_Fn-UseC_-HR-Employee-Attrition.csv : Original HR dataset used for training and evaluation.
+
 model_performance.csv : Summary of accuracy, precision, and recall for all trained models.
+
 Task 1 dashboard.pbix : Power BI dashboard visualizing attrition insights, model results, and key metrics.
 
 # Power BI Dashboard Includes:
