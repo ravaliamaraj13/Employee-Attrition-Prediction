@@ -33,9 +33,13 @@ IBM HR Analytics Attrition Dataset:
 
  # How to Run
  Clone the repository to your system.
+ 
  Open hr_attrition_prediction.py in Jupyter Notebook or VS Code.
+ 
  Run the script to generate prediction and evaluation CSVs.
+ 
  Open the Power BI dashboard file HR_Attrition_Dashboard.pbix.
+ 
  Click Refresh in Power BI to load the latest results.
 
 # Future Scope
